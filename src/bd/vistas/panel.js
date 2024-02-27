@@ -1,4 +1,4 @@
-import { tiquets } from "../bd/tiquets.js"
+import { tiquets } from "./tickets";
 
 let html = ' ';
 
